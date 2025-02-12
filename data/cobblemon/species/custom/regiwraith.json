@@ -79,7 +79,8 @@
     "shodo"
   ],
   "pokedex": [
-    "shodo.species.regiwraith.desc"
+    "shodo.species.regiwraith.desc",
+    "shodo.species.regiwraith.desc2"
   ],
   "baseScale": 1,
   "hitbox": {

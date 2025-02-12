@@ -1,0 +1,92 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "regiwraith-1",
+      "pokemon": "regiwraith",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "14-39",
+      "weight": 5.52,
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_peaks",
+          "minecraft:ice_spikes",
+          "#byg:is_icy",
+          "#c:icy",
+          "terralith:cave/frostfire_caves",
+          "terralith:frozen_cliffs",
+          "terralith:glacial_chasm",
+          "wythers:glacial_cliffs",
+          "wythers:ice_cap",
+          "wythers:icy_crags",
+          "wythers:frozen_island",
+          "minecraft:frozen_river",
+          "minecraft:jagged_peaks",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:snowy_slopes",
+          "#cobblemon:is_glacial",
+          "#cobblemon:is_snowy_forest",
+          "#byg:is_snowy",
+          "#c:snowy",
+          "#forge:is_snowy",
+          "byg:cardinal_tundra",
+          "terralith:emerald_peaks",
+          "terralith:scarlet_mountains",
+          "terralith:skylands_winter",
+          "terralith:snowy_badlands",
+          "wythers:crimson_tundra",
+          "wythers:snowy_bog",
+          "wythers:snowy_canyon",
+          "wythers:snowy_peaks",
+          "wythers:snowy_tundra",
+          "#cobblemon:is_freezing",
+          "#cobblemon:is_peak",
+          "#cobblemon:is_taiga",
+          "#cobblemon:is_tundra",
+          "#byg:is_cold",
+          "#c:climate_cold",
+          "#forge:is_cold/overworld",
+          "wythers:berry_bog",
+          "minecraft:grove",
+          "minecraft:snowy_taiga",
+          "terralith:alpha_islands_winter",
+          "terralith:alpine_grove",
+          "terralith:ice_marsh",
+          "terralith:siberian_grove",
+          "terralith:snowy_maple_forest",
+          "terralith:snowy_shield",
+          "terralith:wintry_forest",
+          "terralith:wintry_lowlands",
+          "wythers:deep_snowy_taiga",
+          "wythers:huangshan_highlands",
+          "wythers:jade_highlands",
+          "wythers:snowy_fen",
+          "wythers:snowy_thermal_taiga",
+          "#c:snowy_plains",
+          "terralith:cold_shrubland",
+          "terralith:gravel_desert",
+          "terralith:rocky_shrubland",
+          "terralith:yellowstone",
+          "wythers:frigid_island",
+          "wythers:tundra"
+
+
+
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_deep_dark"
+        ]
+      }
+    }
+  ]
+}
