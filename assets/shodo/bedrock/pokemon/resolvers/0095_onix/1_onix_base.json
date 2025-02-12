@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:onix",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shodo"],
+      "poser": "cobblemon:onix",
+      "model": "cobblemon:onix.geo",
+      "texture": "cobblemon:textures/pokemon/0095_onix/onix_shodo.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny", "shodo"
+      ],
+      "texture": "cobblemon:textures/pokemon/0095_onix/onix_shodo_shiny.png"
+    }
+  ]
+}

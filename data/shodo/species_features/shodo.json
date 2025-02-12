@@ -1,0 +1,6 @@
+{
+  "keys": ["shodo"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

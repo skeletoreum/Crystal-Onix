@@ -1,0 +1,10 @@
+{
+  "entryId": "cobblemon:onix",
+  "forms": [
+    {
+      "displayForm": "shodo",
+      "unlockForms": ["shodo"]
+    }
+  ],
+  "variations": []
+}

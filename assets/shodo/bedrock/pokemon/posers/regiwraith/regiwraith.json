@@ -1,0 +1,47 @@
+{
+  "portraitScale": 0.83,
+  "portraitTranslation": [-1.2, 2.49, 0],
+  "profileScale": 0.24,
+  "profileTranslation": [0, 1.23, 0],
+  "rootBone": "regiwraith",
+  "animations": {
+    "faint": "q.bedrock_primary('regiwraith', 'regiwraith_faint', q.curve('one'))"
+  },
+  "poses": {
+    "portrait": {
+      "poseTypes": ["PORTRAIT", "PROFILE"],
+      "animations": [
+        "q.bedrock('regiwraith', 'regiwraith_ground_idle')"
+      ]
+    },
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('regiwraith', 'regiwraith_ground_idle')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "FLOAT", "NONE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('regiwraith', 'regiwraith_ground_idle', q.curve('one'))"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK", "SWIM"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('regiwraith', 'regiwraith_ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": [
+        "q.bedrock('regiwraith', 'regiwraith_sleep')"
+      ]
+    }
+  }
+}

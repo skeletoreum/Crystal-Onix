@@ -1,0 +1,16 @@
+{
+    "target": "cobblemon:pikachu",
+    "evolutions": [
+      {
+      "id": "pikachu_gorochu",
+      "variant": "item_interact",
+      "result": "gorochu",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "firepunch"
+      ],
+      "requirements": [],
+      "requiredContext": "cobblemon:fire_stone"
+      }
+    ]
+   }

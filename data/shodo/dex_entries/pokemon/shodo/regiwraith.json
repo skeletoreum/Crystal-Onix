@@ -1,0 +1,15 @@
+{
+  "id": "shodo:regiwraith",
+  "speciesId": "shodo:regiwraith",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "shodo",
+      "unlockForms": [
+        "shodo"
+      ]
+    }
+  ],
+  "variations": []
+}

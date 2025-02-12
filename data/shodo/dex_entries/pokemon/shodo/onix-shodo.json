@@ -1,0 +1,15 @@
+{
+  "id": "cobblemon:onix-shodo",
+  "speciesId": "cobblemon:onix",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "shodo",
+      "unlockForms": [
+        "shodo"
+      ]
+    }
+  ],
+  "variations": []
+}

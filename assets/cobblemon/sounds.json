@@ -1,0 +1,11 @@
+{
+     "pokemon.gorochu.cry": {
+        "sounds": [{ "name": "cobblemon:pokemon/gorochu_cry","volume": 0.5 } ]
+    },
+     "pokemon.scuta.cry": {
+        "sounds": [{ "name": "cobblemon:pokemon/scuta_cry","volume": 0.5 } ]
+    },
+    "pokemon.mantiverous.cry": {
+       "sounds": [{ "name": "cobblemon:pokemon/mantiverous_cry","volume": 0.5 } ]
+   }
+}

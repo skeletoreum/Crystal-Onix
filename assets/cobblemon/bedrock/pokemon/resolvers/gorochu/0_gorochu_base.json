@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:gorochu",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:gorochu",
+      "model": "cobblemon:gorochu.geo",
+      "texture": "cobblemon:textures/pokemon/gorochu/gorochu.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/gorochu/gorochu_shiny.png"
+    }
+  ]
+}

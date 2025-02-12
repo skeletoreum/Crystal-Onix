@@ -1,0 +1,9 @@
+{
+  "type": "cobblemon:simple_pokedex_def",
+  "id": "cobblemon:shodo",
+  "sortOrder": 12,
+  "entries": [
+    "cobblemon:onix-shodo",
+    "shodo:regiwraith"
+  ]
+}
